@@ -1,5 +1,7 @@
 # Stunt Double React Native app
 
+I've build this focusing on iOS for the moment.
+
 To run use the following:
 
 Build and run the JS code:
@@ -7,9 +9,6 @@ Build and run the JS code:
 
 Run iOS:
 ```yarn start:ios```
-
-Run Android:
-```yarn start:android```
 
 Run Tests
 ```yarn test```
