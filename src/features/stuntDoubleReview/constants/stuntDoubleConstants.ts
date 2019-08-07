@@ -1,0 +1,3 @@
+export const FETCH_ACTORS_REQUEST = 'stuntDouble/FETCH_ACTORS_REQUEST';
+export const FETCH_ACTORS_SUCCESS = 'stuntDouble/FETCH_ACTORS_SUCCESS';
+export const FETCH_ACTORS_FAILURE = 'stuntDouble/FETCH_ACTORS_FAILURE';
