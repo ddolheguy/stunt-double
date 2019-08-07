@@ -11,3 +11,5 @@ Run iOS:
 Run Android:
 ```yarn start:android```
 
+Run Tests
+```yarn test```
